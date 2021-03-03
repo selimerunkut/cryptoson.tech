@@ -16,9 +16,33 @@
 
   <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/vendors.min.css" | prepend: site.baseurl }}">
+  <style id="wp-custom-css">
+    #coingecko-coin-price-marquee-widget {
+      position: fixed;
+    }
+  
+    .site-header {
+      z-index: -1;
+    }
+  
+    .site-info {
+      display: none;
+    }
+  
+    .page-id-288 .entry-content {
+      float: unset !important;
+      width: unset !important;
+    }
+  </style>
 
   <script src="{{ "/assets/js/vendors.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
+<!-- HFCM by 99 Robots - Snippet # 1: coingecko -->
+<script src="https://widgets.coingecko.com/coingecko-coin-price-marquee-widget.js"></script>
+<coingecko-coin-price-marquee-widget id="coingecko-coin-price-marquee-widget"
+  coin-ids="bitcoin,litecoin,0x,neo,ethereum,bitcoin-cash,nem,ripple,eos,stellar,tron,bitcoin-cash-sv,cardano,monero,tezos"
+  currency="usd" background-color="#ffffff" locale="en"></coingecko-coin-price-marquee-widget>
+<!-- /end HFCM by 99 Robots -->
 </head>
 
 <body>
