@@ -1,0 +1,13 @@
+{%- assign nav = site.data.navigation -%}
+<div class="navigation ">
+  <ul>
+    {%- for i in nav -%}
+    <li class="tag">
+      {%- assign pu = page.url | remove: ".html" -%}
+      <a href="{{i.link}}" {%- if i.link == pu -%}
+        class="active"
+      {%- endif -%}>{{i.title}}</a>
+    </li>
+    {%- endfor -%}
+  </ul>
+</div>
