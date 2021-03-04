@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Selim Erünkut - cryptoson
+title: Selim Erünkut
 # description: This will be meta HTML tag content. This can be ignored.
 description: Experienced Software Developer with a solid background in software development, business intelligence, cryptocurrencies, engineering and research, and passionate about the dynamics of technological innovation.
 
@@ -11,7 +11,7 @@ baseurl: ""
 username: SELIM ERÜNKUT
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Blockchain & Cryptocurrency enthusiast. Software Engineer. Meetup junky.
+typing_text: Blockchain & Cryptocurrency. Software Engineer.
 # email: Your E-Mail address for the email button.
 email: se@cypherx.tech
 # For every social button you want to display, set your username or userid
@@ -29,7 +29,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Experienced Software Developer with a solid background in software development, business intelligence, cryptocurrencies, engineering and research, and passionate about the dynamics of technological innovation.
+about_me_description: I am Experienced Software Developer with a solid background in software development, business intelligence, cryptocurrencie technologies, engineering and research and passionate about the dynamics of technological innovation.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -76,7 +76,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/overqint" target="_blank" rel="noreferrer"> Github </a>.
+contact_description:
 
 # GITHUB-METADATA
 # Set this to your forked repository
@@ -105,7 +105,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: ""
+  id: "UA-110579843-1"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
