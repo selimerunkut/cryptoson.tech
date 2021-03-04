@@ -27,6 +27,9 @@
     - tag: Solidity
     - tag: Openzeppelin
     - tag: Hardhat
+    - tag: Trufflesuite
+    - tag: Polkadot
+    - tag: Cosmos
   timeline-side: left
 
 - title: Novem Gold AG
