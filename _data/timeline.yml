@@ -17,45 +17,46 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+
+- title: Freelancer
+  title-url: https://cypherx.tech/
+  date: Feb 2021 - present
+  subtitle: CTO
   tags:
-    - tag: React
-    - tag: Javascript
+    - tag: Ethereum
+    - tag: Solidity
+    - tag: Openzeppelin
+    - tag: Hardhat
+  timeline-side: left
+
+- title: Novem Gold AG
+  title-url: https://novemgold.com/
+  date: May 2020 - Feb 2021
+  subtitle: CTO
+  tags:
+    - tag: Ethereum
+    - tag: Solidity
     - tag: Ruby
     - tag: Rails
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Novem Gold AG
+  title-url: https://novemgold.com/
+  date: Oct 2019 - May 2020
+  subtitle: Fullstack Developer
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
-  timeline-side: left
-
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
+    - tag: Neo Blockchain
     - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+    - tag: Ruby
+    - tag: Rails
   timeline-side: left
+
+- title: Jobvector
+  title-url: https://www.jobvector.com/
+  date: Nov 2013 - Sep 2019
+  subtitle: Software Engineer & Deputy Head of IT
+  tags:
+    - tag: Open Source CRM
+    - tag: API
+    - tag: PHP
+  timeline-side: right
