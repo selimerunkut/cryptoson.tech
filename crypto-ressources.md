@@ -63,7 +63,9 @@ https://info.uniswap.org/
 ### Smart Contract Audits:
 
 [DeFi Safety](https://defisafety.com/)
+
 [Certik](https://certik.org/)
+
 [Certified](https://cer.live/defi)
 
 ### Yield Farming
@@ -77,6 +79,7 @@ https://info.uniswap.org/
 ### ETH Gas Info
 
 [Gas Price correlation by weekday and hour](https://medium.com/dextf/ethereum-how-to-save-even-more-on-gas-price-with-a-weekly-plan-c6689ac09fe6)
+
 [ETH Gas Station](https://ethgasstation.info/)
 
 ## Ethereum Ressources
