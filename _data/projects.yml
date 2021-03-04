@@ -14,29 +14,37 @@
 #     - tag: Node
 
 - name: Ethereum Smart Contracts 
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+  descr: "Migrating NNN and NVM tokens to the ethereum Blockchain"
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Solidity
+    - tag: Openzeppelin
 
-- name: Ethereum dApp
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+    
+- name: Token Sale Shop 
+  descr: "Ruby on Rails Shop to buy NVM and NNN tokens, with automated KYC and a Gold Bank, for instant purchase of tokenized gold"
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: Ruby on Rails
+    - tag: Tailwind CSS
+    - tag: web3js
 
-- name: NEO dApp
-  descr: "You can also set a project without demo link and no tags"
+- name: Neo dApp
+  descr: "App that enables buying tokens"
+  tags:
+    - tag: NEO O2 Wallet API
+    - tag: Vue.js
 
-- name: NEO Smart Contracts
-  descr: "You can also set a project without demo link and no tags"
+- name: NVM Token airdrop
+  descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
+    - tag: NEO O2 Wallet API
+    - tag: Vue.js
+  
+- name: Novem Gold AG Website
+  descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
 
 - name: Crypto Exchange APIs
-  descr: "You can also set a project without demo link and no tags"
+  descr: "Creating different apps that interact with Crypto Exchange APIs"
+  - tag: Binance API
+  - tag: Bittrex API
 
 - name: "My Repository:"
-  descr: '<a href="https://github.com/overqint" target="_blank"><strong> overqint</strong></a><br>26 repositories, 6 followers.'
+  descr: '<a href="https://github.com/selimerunkut" target="_blank"><strong>selimerunkut</strong></a>'
