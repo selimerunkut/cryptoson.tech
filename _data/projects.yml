@@ -35,6 +35,7 @@
 
 - name: NVM Token airdrop
   descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
+  tags:
     - tag: NEO O2 Wallet API
     - tag: Vue.js
   
@@ -43,8 +44,9 @@
 
 - name: Crypto Exchange APIs
   descr: "Creating different apps that interact with Crypto Exchange APIs"
-  - tag: Binance API
-  - tag: Bittrex API
+  tags:
+    - tag: Binance API
+    - tag: Bittrex API
 
 - name: "My Repository:"
   descr: '<a href="https://github.com/selimerunkut" target="_blank"><strong>selimerunkut</strong></a>'
