@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Crypto Ressources
-class: ressources
+title: Crypto Resources
+class: resources
 ---
 ## Wallets & Storage
 
@@ -82,11 +82,11 @@ https://info.uniswap.org/
 
 [ETH Gas Station](https://ethgasstation.info/)
 
-## Ethereum Ressources
+## Ethereum Resources
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
-## Bitcoin Ressources
+## Bitcoin Resources
 
 [https://bitcoin-resources.com/](https://bitcoin-resources.com/)
 

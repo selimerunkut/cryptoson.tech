@@ -64,7 +64,7 @@ projects_title: PROJECTS
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
-show_os_projects: false
+show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
 os_projects_title: Open Source Projects
 
@@ -81,7 +81,8 @@ contact_description:
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: selimerunkut/cryptoson.tech
+# repository: selimerunkut/cryptoson.tech
+repository: vosaul/Selim
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
