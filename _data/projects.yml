@@ -20,12 +20,15 @@
     - tag: Openzeppelin
 
     
-- name: Token Sale Shop 
+- name: Token Sale App 
   descr: "Ruby on Rails Shop to buy NVM and NNN tokens, with automated KYC and a Gold Bank, for instant purchase of tokenized gold"
   tags:
     - tag: Ruby on Rails
     - tag: Tailwind CSS
     - tag: web3js
+    - tag: NEO Blockchain
+    - tag: Ethereum
+    - tag: tailwind
 
 - name: Neo dApp
   descr: "App that enables buying tokens"
@@ -35,16 +38,22 @@
 
 - name: NVM Token airdrop
   descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
-    - tag: NEO O2 Wallet API
-    - tag: Vue.js
+  tags:
+    - tag: neo-python
+    - tag: heroku
   
 - name: Novem Gold AG Website
-  descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
+  descr: "Multilanguage Static Website"
+  tags:
+    - tag: NEO O2 Wallet API
+    - tag: middleman static site generator
+    - tag: cloudflare workers
 
 - name: Crypto Exchange APIs
   descr: "Creating different apps that interact with Crypto Exchange APIs"
-  - tag: Binance API
-  - tag: Bittrex API
+  tags:
+    - tag: Binance API
+    - tag: Bittrex API
 
 - name: "My Repository:"
   descr: '<a href="https://github.com/selimerunkut" target="_blank"><strong>selimerunkut</strong></a>'
