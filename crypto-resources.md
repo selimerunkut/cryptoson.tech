@@ -7,7 +7,7 @@ class: resources
 
 [Mnemonic Code Converter](https://iancoleman.io/bip39/)
 
-[https://medium.com/myetherwallet/hd-wallets...](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2)
+[wallets and derivation paths explained](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2)
 
 ### Choosing a wallet:
 
@@ -19,9 +19,9 @@ seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
 ### High security storage for large amounts
 
-Protocol: [https://glacierprotocol.org/](https://glacierprotocol.org/)
+Protocol: [glacierprotocol](https://glacierprotocol.org/)
 
-Laptop: [https://puri.sm/](https://puri.sm/)
+Laptop: [purism](https://puri.sm/)
 
 ### Multisig Wallets
 
@@ -42,6 +42,14 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [UI for Lightning Node operations](https://github.com/Ride-The-Lightning/RTL)
 
+## Blockchain Trackers
+
+[blockchair](https://blockchair.com/)
+
+### Ethereum
+
+[ethplorer.io](https://ethplorer.io/)
+
 ## DeFi
 
 ### Information Aggregator:
@@ -50,9 +58,13 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ### Pool Information:
 
-https://www.dextools.io/app/uniswap/pool-explorer
+[dextools](https://www.dextools.io/app/uniswap/pool-explorer)
 
-https://info.uniswap.org/
+[info.uniswap](https://info.uniswap.org/)
+
+### Ethereum and Binance Smart Chain portfolio tracker
+
+[dappradar](https://dappradar.com/hub/wallet/)
 
 ### Swapping
 
@@ -82,26 +94,37 @@ https://info.uniswap.org/
 
 [ETH Gas Station](https://ethgasstation.info/)
 
+### Fees
+
+[fees.wtf](https://fees.wtf/)
+
+### Revoke wallet permission
+
+[revoke.cash](https://revoke.cash/)
+
+[approved.zone](https://approved.zone/)
+
+
 ## Ethereum Resources
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
 ## Bitcoin Resources
 
-[https://bitcoin-resources.com/](https://bitcoin-resources.com/)
+[bitcoin-resources.com](https://bitcoin-resources.com/)
 
-[https://www.lopp.net/bitcoin-information.html](https://www.lopp.net/bitcoin-information.html)
+[lopp.net](https://www.lopp.net/bitcoin-information.html)
 
 ### Some analysis and models
 
-[http://charts.woobull.com/](http://charts.woobull.com/)
+[charts.woobull.com](http://charts.woobull.com/)
 
-[https://medium.com/@100trillionUSD](https://medium.com/@100trillionUSD)
+[medium.com/@100trillionUSD](https://medium.com/@100trillionUSD)
 
 ### Sentiment Tools:
 
-[https://app.santiment.net/](https://app.santiment.net/)
+[santiment.net](https://app.santiment.net/)
 
-[https://insights.glassnode.com/](https://insights.glassnode.com/)
+[insights.glassnode.com](https://insights.glassnode.com/)
 
-[https://studio.glassnode.com/](https://studio.glassnode.com/)
+[studio.glassnode.com](https://studio.glassnode.com/)
