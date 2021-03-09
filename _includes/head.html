@@ -17,6 +17,7 @@
   <link rel="stylesheet" href="{{ " /assets/css/main.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ " /assets/css/vendors.min.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "assets/custom.css" | prepend: site.baseurl }}">
-
-  <!-- HFCM by 99 Robots - Snippet # 1: coingecko -->
+  {%- if site.google_tag_id -%}
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{site.google_tag_id}}"></script>
+  {%- endif -%}
 </head>

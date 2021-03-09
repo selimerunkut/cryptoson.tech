@@ -87,7 +87,13 @@
   }
 
   if (readCookie('cookie-notice-dismissed') == 'true') {
-    {% include google.html %}
+    {% if site.google_tag_id %}
+      window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', '{{site.google_tag_id}}');
+    {% endif %}
   } else {
     document.getElementById('cookie-notice').style.display = 'flex';
   }
