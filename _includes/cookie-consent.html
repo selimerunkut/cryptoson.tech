@@ -1,14 +1,16 @@
 <style>
   #cookie-notice {
     z-index: 99;
+    width: 82%;
+    max-width: 900px;
     padding: 30px;
     display: none;
     justify-content: space-around;
     flex-direction: column;
     text-align: left;
     position: fixed;
-    transform: translateX(50%);
-    
+    transform: translateX(-50%);
+    left: 50%;
     bottom: 20px;
     background-color: #333;
     background-image: linear-gradient(145deg, #73737326 15%, #2b2d2f 80%);
@@ -33,6 +35,8 @@
     margin: 0 0.3rem 0.5rem;
     padding: 0.5rem 0.25rem;
     text-align: center;
+      box-shadow: 5px 5px 4px #161718, -5px -5px 4px #404346;
+    border-radius: 1rem;
   }
 
   .btn-primary {
