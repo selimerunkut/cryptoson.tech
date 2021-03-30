@@ -17,6 +17,26 @@ class: resources
 [Aantonop – Bitcoin Q&A: Can you trust a hardware wallet to generate your
 seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
+## Just suggest me a wallet (!!!DYOR!!! - always verify from the official website):
+
+### Bitcoin
+
+#### Desktop
+[electrum](https://electrum.org/#home)
+
+#### [For "private" transactions - Coinjoin / Mixin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
+
+[wasabi](https://wasabiwallet.io/)
+
+(as of writing this: 30.03.2021 there is a wasabi wallet on the android play store  - 99% a scam, beware!)
+
+#### mobile
+
+[samurai](https://samouraiwallet.com/)
+
+[blue wallet](https://bluewallet.io/)
+
+
 ### High security storage for large amounts
 
 Protocol: [glacierprotocol](https://glacierprotocol.org/)
