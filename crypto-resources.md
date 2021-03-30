@@ -21,8 +21,14 @@ seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
 #### Bitcoin
 
-##### Desktop
-[electrum](https://electrum.org/#home)
+##### Hardware Wallets (always buy from the offical website)
+
+[Trezor](https://trezor.io/)
+
+[Ledger](https://www.ledger.com/)
+
+##### Desktop wallets
+[electrum (use a hardware wallet)](https://electrum.org/#home)
 
 ###### [For "private" transactions - Coinjoin / Mixin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
 
@@ -30,7 +36,7 @@ seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
 (as of writing this: 30.03.2021 there is a wasabi wallet on the android play store  - 99% a scam, beware!)
 
-##### mobile
+##### Mobile wallets
 
 [samurai](https://samouraiwallet.com/)
 
