@@ -13,6 +13,15 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Novem Bridge  
+  descr: "for swapping Novem Tokens between NEO and Ethereum Blockchains"
+  tags:
+    - tag: Token Swap
+    - tag: NEO Blockchain
+    - tag: web3 Ethereum
+    - tag: google cloud
+    - tag: polychain
+
 - name: Ethereum Smart Contracts 
   descr: "Migrating NNN and NVM tokens to the ethereum Blockchain"
   tags:
@@ -25,9 +34,8 @@
   tags:
     - tag: Ruby on Rails
     - tag: Tailwind CSS
-    - tag: web3js
     - tag: NEO Blockchain
-    - tag: Ethereum
+    - tag: web3 Ethereum
     - tag: tailwind
 
 - name: Neo dApp
@@ -37,7 +45,7 @@
     - tag: Vue.js
 
 - name: NVM Token airdrop
-  descr: "Creating a backend with pthon that interacts with NVM NEO Smart Contract for airdropping the NVM token"
+  descr: "Creating a backend with python that interacts with NVM NEO Smart Contract for airdropping the NVM token"
   tags:
     - tag: neo-python
     - tag: heroku
