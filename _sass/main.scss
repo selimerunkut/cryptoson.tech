@@ -231,7 +231,7 @@ a {
   background: $bg-color;
   color: $text-color;
   display: flex;
-  height: 100%;
+  height: 60%;
   margin: 0.5rem;
   padding: 0.5rem;
   text-align: center;
@@ -653,7 +653,7 @@ a {
 @media only screen and (min-width: $small-screen) {
   .layout {
     margin: 0.5rem auto;
-    padding: 2rem 2rem;
+    padding: 2rem 2rem 0rem 2rem;
   }
 
   .layout .card .subtitle {
@@ -835,7 +835,7 @@ a {
 
 @media only screen and (min-width: $medium-screen) {
   .layout {
-    padding: 3rem 3rem;
+    padding: 3rem 3rem 0rem 3rem;
   }
 
   .layout .card {
@@ -869,7 +869,7 @@ a {
 
 @media only screen and (min-width: $large-screen) {
   .layout {
-    padding: 5rem 5rem;
+    padding: 5rem 5rem 0rem 5rem;
   }
 
   #skills .filter-button {
