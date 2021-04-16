@@ -42,7 +42,6 @@ seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
 [blue wallet](https://bluewallet.io/)
 
-
 ### High security storage for large amounts
 
 Protocol: [glacierprotocol](https://glacierprotocol.org/)
@@ -71,6 +70,9 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 ## Blockchain Trackers
 
 [blockchair](https://blockchair.com/)
+
+## Staking
+[stake.fish](https://stake.fish/)
 
 ### Ethereum
 
