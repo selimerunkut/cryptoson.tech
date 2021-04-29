@@ -78,6 +78,9 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [ethplorer.io](https://ethplorer.io/)
 
+## Research
+[ETH research forum](https://ethresear.ch/)
+
 ## DeFi
 
 ### Information Aggregator:
