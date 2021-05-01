@@ -161,3 +161,6 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [insights.glassnode.com](https://insights.glassnode.com/)
 
 [studio.glassnode.com](https://studio.glassnode.com/)
+
+# non crypto
+[privacytools.io](https://www.privacytools.io/)
