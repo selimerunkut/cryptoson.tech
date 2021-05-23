@@ -93,7 +93,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [ethplorer.io](https://ethplorer.io/)
 
 ## Research
-[ETH research forum](https://ethresear.ch/)
+
+[ethresear - ETH research forum](https://ethresear.ch/)
+
+[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
 
 ## DeFi
 
@@ -152,7 +155,6 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [revoke.cash](https://revoke.cash/)
 
 [approved.zone](https://approved.zone/)
-
 
 ## Ethereum Resources
 
