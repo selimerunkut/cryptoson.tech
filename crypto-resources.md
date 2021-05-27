@@ -75,7 +75,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 #### BTC
 
-[loop compilation](https://www.lopp.net/bitcoin-information/visualizations.html)
+[loop compilation](https://www.lopp.net/n-information/visualizations.html)
 
 #### BTC & ETH
 
@@ -162,9 +162,13 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ## Bitcoin Resources
 
-[bitcoin-resources.com](https://bitcoin-resources.com/)
+[bitcoin.org](https://bitcoin.org/)
 
 [lopp.net](https://www.lopp.net/bitcoin-information.html)
+
+[bitcoin-only](https://bitcoin-only.com/)
+
+[bitcoin-resources.com](https://bitcoin-resources.com/)
 
 ### Some analysis and models
 
