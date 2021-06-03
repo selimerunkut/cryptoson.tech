@@ -184,5 +184,11 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [studio.glassnode.com](https://studio.glassnode.com/)
 
+# Various Channels
+
+## Telegram
+[CryptoVigilante Scam News](https://t.me/CryptoVigilanteANN)
+
+
 # non crypto
 [privacytools.io](https://www.privacytools.io/)
