@@ -146,6 +146,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ### Fees
 
+[cryptofees.info](https://cryptofees.info/)
+
 [fees.wtf](https://fees.wtf/)
 
 [bscfee.wtf](https://bscfee.wtf)
