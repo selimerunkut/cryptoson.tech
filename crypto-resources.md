@@ -187,16 +187,18 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 # Various Channels
 
 ## Telegram
+
 [CryptoVigilante Scam News](https://t.me/CryptoVigilanteANN)
 
-[https://t.me/Crypto_Deleted](https://t.me/Crypto_Deleted)
+[Crypto "Influencers" Deleted Tweets](https://t.me/Crypto_Deleted)
 
 
 ## Discord
+
 [DeFi Safety](https://discord.gg/UUnKqyXZqS)
 (also on Telegram with the same name)
 
 
-
 # non crypto
+
 [privacytools.io](https://www.privacytools.io/)
