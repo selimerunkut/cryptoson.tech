@@ -209,6 +209,24 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [DeFi Safety](https://discord.gg/UUnKqyXZqS)
 (also on Telegram with the same name)
 
+# Games
+
+## ETH games
+[darkforest](https://zkga.me/)
+
+[games ranking](https://dappradar.com/rankings/protocol/ethereum/category/games)
+
+
+## BTC games
+[lightnite](https://lightnite.io/)
+
+[satoshis.place](https://satoshis.place/)
+
+[escapeqr](https://escapeqr.com/)
+
+[bitcoinbountyhunt](https://bitcoinbountyhunt.com/)
+
+[thndr.games](https://thndr.games/games)
 
 # non crypto
 
