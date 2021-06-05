@@ -197,12 +197,17 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 # Various Channels
 
+## News
+
+[feed.rekt](https://feed.rekt.news/)
+
+[cryptopanic](https://cryptopanic.com/)
+
 ## Telegram
 
 [CryptoVigilante Scam News](https://t.me/CryptoVigilanteANN)
 
 [Crypto "Influencers" Deleted Tweets](https://t.me/Crypto_Deleted)
-
 
 ## Discord
 
