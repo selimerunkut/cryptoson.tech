@@ -3,6 +3,9 @@ layout: page
 title: Crypto Resources
 class: resources
 ---
+
+# Cryptocurrency
+
 ## Wallets & Storage
 
 [Mnemonic Code Converter](https://iancoleman.io/bip39/)
@@ -241,9 +244,11 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [thndr.games](https://thndr.games/games)
 
-# non crypto
+# NON crypto
 
-[privacytools.io](https://www.privacytools.io/)
+## Security
+
+[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/)
 
 [overthewire wargames](https://overthewire.org/wargames/)
 
