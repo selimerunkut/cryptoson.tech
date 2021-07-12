@@ -171,6 +171,14 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
+### Security
+
+#### Wargames
+
+[damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
+
+[ethernaut](https://ethernaut.openzeppelin.com/)
+
 ## Bitcoin Resources
 
 [bitcoin.org](https://bitcoin.org/)
@@ -236,3 +244,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 # non crypto
 
 [privacytools.io](https://www.privacytools.io/)
+
+[overthewire wargames](https://overthewire.org/wargames/)
+
+
