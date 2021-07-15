@@ -167,6 +167,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
+### Layer 2
+
+[optimism gateway](https://gateway.optimism.io/welcome)
+
 ### Security
 
 #### Multichain
