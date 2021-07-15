@@ -182,6 +182,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [ethernaut](https://ethernaut.openzeppelin.com/)
 
+[ethernaut level explanations](https://www.notonlyowner.com/ethernaut.html)
+
 ## Bitcoin Resources
 
 [bitcoin.org](https://bitcoin.org/)
