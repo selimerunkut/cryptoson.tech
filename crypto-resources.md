@@ -176,6 +176,46 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ### Security
 
+#### Multichain
+
+[octopus](https://github.com/pventuzelo/octopus) - WebAssembly, EVM, AVM
+
+#### Solidity
+
+##### Visualization
+
+[vscode solidity auditor](https://github.com/ConsenSys/vscode-solidity-auditor)
+
+[ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger)
+
+##### Static and Dynamic Analysis
+
+[slither](https://github.com/crytic/slither)
+
+[manticore](https://github.com/trailofbits/manticore)
+
+[verisol](https://github.com/microsoft/verisol)
+
+[echidna](https://github.com/crytic/echidna)
+
+[pakala](https://github.com/palkeo/pakala)
+
+[mythril](https://github.com/ConsenSys/mythril)
+
+[securify2](https://github.com/eth-sri/securify2)
+
+##### Smart Contract Weakness Classification and Test Cases
+
+[SWC-registry github](https://github.com/SmartContractSecurity/SWC-registry/) - github repo SWC definitions of crafted and real-world samples of vulnerable smart contracts
+
+[SWC-registry Website](https://swcregistry.io/) - published SWC-registry repo
+
+##### Link compilation
+
+[article: check smart contract for bugs](https://klevoya.com/blog/check-smart-contract-for-bugs/)
+
+[consensys - list of security tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+
 #### Wargames
 
 [damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
@@ -246,7 +286,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [thndr.games](https://thndr.games/games)
 
-# NON crypto
+# NOT cryptocurrency
 
 ## Security
 
