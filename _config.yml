@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Selim Erünkut
 # description: This will be meta HTML tag content. This can be ignored.
-description: Experienced Software Developer with a solid background in software development, business intelligence, cryptocurrencies, engineering and research, and passionate about the dynamics of technological innovation.
+description: Software Developer with a solid background in software development, business intelligence, cryptocurrency technologies & research and passionate about the dynamics of technological innovation.
 
 baseurl: ""
 
@@ -29,7 +29,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: I am Experienced Software Developer with a solid background in software development, business intelligence, cryptocurrencie technologies, engineering and research and passionate about the dynamics of technological innovation.
+about_me_description: ""
 
 # SKILLS SECTION
 # show_skills_card:
@@ -120,3 +120,6 @@ exclude:
     "node_modules",
     "package.json",
   ]
+# github markdown format
+kramdown:
+  input: GFM

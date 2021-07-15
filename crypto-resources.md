@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crypto Resources
+title: Resource Compilation
 class: resources
 ---
 
@@ -15,42 +15,33 @@ class: resources
 ### Choosing a wallet:
 
 [Aantonop – Bitcoin Q&A: How Do I Choose a Wallet?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
-<br>
 
-[Aantonop – Bitcoin Q&A: Can you trust a hardware wallet to generate your
-seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
-
+[Aantonop – Bitcoin Q&A: Can you trust a hardware wallet to generate your seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 ### Just suggest me a wallet (!!!DYOR!!! - always verify from the official website):
-
 #### Bitcoin
-
 ##### Hardware Wallets (always buy from the offical website)
 
 [Trezor](https://trezor.io/)
 
 [Ledger](https://www.ledger.com/)
-
 ##### Desktop wallets
 [electrum (use a hardware wallet)](https://electrum.org/#home)
 
-###### [For "private" transactions - Coinjoin / Mixin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
+[For "private" transactions - Coinjoin / Mixin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
 
 [wasabi](https://wasabiwallet.io/)
 
 (as of writing this: 30.03.2021 there is a wasabi wallet on the android play store  - 99% a scam, beware!)
-
 ##### Mobile wallets
 
 [samurai](https://samouraiwallet.com/)
 
 [blue wallet](https://bluewallet.io/)
-
 ### High security storage for large amounts
 
 Protocol: [glacierprotocol](https://glacierprotocol.org/)
 
 Laptop: [purism](https://puri.sm/)
-
 ### Multisig Wallets
 
 [Gnosis Multisig Wallet](https://gnosis-safe.io/)
