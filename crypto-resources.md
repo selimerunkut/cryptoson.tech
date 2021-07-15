@@ -179,6 +179,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 #### Multichain
 
 [octopus](https://github.com/pventuzelo/octopus) - WebAssembly, EVM, AVM
+[reversing_ethereum_smart_contracts](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf) - Octopus tool creator - Patrick Ventuzelo
 
 #### Solidity
 
@@ -190,19 +191,24 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ##### Static and Dynamic Analysis
 
-[slither](https://github.com/crytic/slither)
+[mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
 
-[manticore](https://github.com/trailofbits/manticore)
+[slither](https://github.com/crytic/slither) - Solidity static analysis framework written in Python 3
 
-[verisol](https://github.com/microsoft/verisol)
+[manticore](https://github.com/trailofbits/manticore) - symbolic execution tool for analysis of smart contracts and binaries.
 
-[echidna](https://github.com/crytic/echidna)
+[echidna](https://github.com/crytic/echidna) - Haskell program designed for fuzzing/property-based testing of EVM smarts contracts
 
-[pakala](https://github.com/palkeo/pakala)
+[pakala](https://github.com/palkeo/pakala) - Pakala is a tool to search for exploitable bugs in Ethereum smart contracts - symbolic execution engine for EVM
 
-[mythril](https://github.com/ConsenSys/mythril)
+[securify2](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts using [pre definied vulnerabilities](https://github.com/eth-sri/securify2#supported-vulnerabilities)
 
-[securify2](https://github.com/eth-sri/securify2)
+[rattle](https://github.com/crytic/rattle) - Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts
+
+###### development stopped/inactive
+
+[verisol](https://github.com/microsoft/verisol) - prototyping a formal verification and analysis system for smart contracts
+
 
 ##### Smart Contract Weakness Classification and Test Cases
 
@@ -215,6 +221,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [article: check smart contract for bugs](https://klevoya.com/blog/check-smart-contract-for-bugs/)
 
 [consensys - list of security tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+
+[mythx compilation](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools) - contains articles, papers and videos
 
 #### Wargames
 
