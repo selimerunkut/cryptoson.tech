@@ -123,6 +123,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
 
+[uniswap on Layer 2 - optimism](https://help.uniswap.org/en/collections/3033942-layer-2)
+
 ### Smart Contract Audits:
 
 [DeFi Safety](https://defisafety.com/)
@@ -170,6 +172,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 #### Multichain
 
 [octopus](https://github.com/pventuzelo/octopus) - WebAssembly, EVM, AVM
+
 [reversing_ethereum_smart_contracts](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf) - Octopus tool creator - Patrick Ventuzelo
 
 #### Solidity
