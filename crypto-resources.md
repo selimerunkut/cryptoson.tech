@@ -95,12 +95,6 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 ## Staking
 [stake.fish](https://stake.fish/)
 
-## Ethereum Research
-
-[ethresear - ETH research forum](https://ethresear.ch/)
-
-[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
-
 ## DeFi
 
 ### Information Aggregator:
@@ -166,6 +160,16 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 ## Ethereum Resources
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
+
+## ETH2
+
+https://ethereum.org/en/eth2/beacon-chain/
+
+### Ethereum Research
+
+[ethresear - ETH research forum](https://ethresear.ch/)
+
+[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
 
 ### Layer 2
 
