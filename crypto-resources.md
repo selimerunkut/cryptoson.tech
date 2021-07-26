@@ -161,7 +161,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
-[transaction - wallet footprint](https://carbon.fyi/)
+[transaction - wallet carbon footprint](https://carbon.fyi/)
 
 ### ETH2
 
