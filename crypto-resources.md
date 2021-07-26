@@ -304,4 +304,6 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [overthewire wargames](https://overthewire.org/wargames/)
 
+## Climate
 
+[carbon offset](https://offsetra.com/)
