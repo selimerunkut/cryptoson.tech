@@ -161,7 +161,9 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
-## ETH2
+[transaction - wallet footprint](https://carbon.fyi/)
+
+### ETH2
 
 https://ethereum.org/en/eth2/beacon-chain/
 
@@ -210,7 +212,6 @@ https://ethereum.org/en/eth2/beacon-chain/
 ###### development stopped/inactive
 
 [verisol](https://github.com/microsoft/verisol) - prototyping a formal verification and analysis system for smart contracts
-
 
 ##### Smart Contract Weakness Classification and Test Cases
 
@@ -283,7 +284,6 @@ https://ethereum.org/en/eth2/beacon-chain/
 [darkforest](https://zkga.me/)
 
 [games ranking](https://dappradar.com/rankings/protocol/ethereum/category/games)
-
 
 ## BTC games
 [lightnite](https://lightnite.io/)
