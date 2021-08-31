@@ -308,8 +308,10 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [overthewire wargames](https://overthewire.org/wargames/)
 
-[Sci Hub - research papers](https://sci-hub.se/)
-
 ## Climate
 
 [carbon offset](https://offsetra.com/)
+
+## Research Papers
+
+[Sci Hub - research papers](https://sci-hub.se/)
