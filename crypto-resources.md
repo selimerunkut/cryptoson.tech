@@ -227,6 +227,10 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [mythx compilation](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools) - contains articles, papers and videos
 
+##### Developer Ressources
+
+[Developer Road Map Mindmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
 #### Wargames
 
 [damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
