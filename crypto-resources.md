@@ -300,6 +300,10 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [thndr.games](https://thndr.games/games)
 
+# Monero
+
+[sethforprivacy - Monero guides and stuff](https://sethforprivacy.com/guides/)
+
 # NOT cryptocurrency
 
 ## Security
