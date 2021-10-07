@@ -304,7 +304,7 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [sethforprivacy - Monero guides and stuff](https://sethforprivacy.com/guides/)
 
-# NOT cryptocurrency
+# Other stuff
 
 ## Security
 
@@ -319,3 +319,6 @@ https://ethereum.org/en/eth2/beacon-chain/
 ## Research Papers
 
 [Sci Hub - research papers](https://sci-hub.se/)
+
+## Documentaries
+https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42
