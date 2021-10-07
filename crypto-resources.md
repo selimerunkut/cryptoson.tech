@@ -321,4 +321,6 @@ https://ethereum.org/en/eth2/beacon-chain/
 [Sci Hub - research papers](https://sci-hub.se/)
 
 ## Documentaries
-https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42
+
+[Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
+
