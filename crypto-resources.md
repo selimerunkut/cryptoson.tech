@@ -6,6 +6,10 @@ class: resources
 
 # Cryptocurrency
 
+[A highly readable version of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Document_HD.pdf)
+
+[Poster of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Poster_24x30.pdf)
+
 ## Wallets & Storage
 
 [Mnemonic Code Converter](https://iancoleman.io/bip39/)
