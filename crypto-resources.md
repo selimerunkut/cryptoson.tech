@@ -96,6 +96,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [cryptoslam](https://www.cryptoslam.io/)
 
+[checkmynft - storage info of NFTs](https://checkmynft.com/)
+
 ## Staking
 [stake.fish](https://stake.fish/)
 
