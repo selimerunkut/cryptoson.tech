@@ -135,7 +135,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ### Yield Farming
 
-[yieldfarming.info](https://yieldfarming.info/)
+[vfat tools - fork of yieldfarming.info](https://vfat.tools)
 
 ### Asset Overview Dashboard
 
