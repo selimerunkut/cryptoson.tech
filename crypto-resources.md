@@ -289,6 +289,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 [DeFi Safety](https://discord.gg/UUnKqyXZqS)
 (also on Telegram with the same name)
 
+[NFT Rarity Checking Discord Server](https://discord.com/channels/860517479122206720/861139204146462730)
+
 # Games
 
 ## ETH games
