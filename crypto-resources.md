@@ -333,3 +333,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 
+## Privacy & Activism
+
+[Electronic Frontier Foundation](https://www.eff.org/)
+
+[have i been pwned](https://haveibeenpwned.com/)
