@@ -10,6 +10,13 @@ class: resources
 
 [Poster of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Poster_24x30.pdf)
 
+# Learn
+
+
+[rabbithole](https://rabbithole.gg/)
+
+[scaffold-eth learn by challenges](https://speedrunethereum.com/)
+
 ## Wallets & Storage
 
 [Mnemonic Code Converter](https://iancoleman.io/bip39/)
