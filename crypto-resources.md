@@ -177,6 +177,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [transaction - wallet carbon footprint](https://carbon.fyi/)
 
+[useweb3](https://www.useweb3.xyz/)
+
 ### ETH2
 
 https://ethereum.org/en/eth2/beacon-chain/
@@ -244,6 +246,12 @@ https://ethereum.org/en/eth2/beacon-chain/
 ##### Developer Ressources
 
 [Developer Road Map Mindmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
+[buidlguidl](https://buidlguidl.com/)
+
+##### Github Repos
+
+[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
 
 #### Wargames
 
