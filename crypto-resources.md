@@ -328,6 +328,18 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [sethforprivacy - Monero guides and stuff](https://sethforprivacy.com/guides/)
 
+# no heading / not sorted
+
+[web3.lifeitself](https://web3.lifeitself.us/)
+
+# critics of crypto (out of the bubble)
+
+[web3isgoinggreat](https://web3isgoinggreat.com/)
+
+[stephendiehl blog](https://www.stephendiehl.com/blog/)
+
+[no to web3](https://yesterweb.org/no-to-web3/index.html)
+
 # Other stuff
 
 ## Security
