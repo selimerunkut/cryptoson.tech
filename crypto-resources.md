@@ -179,6 +179,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [useweb3](https://www.useweb3.xyz/)
 
+[eth2book](https://eth2book.info/)
+
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
 ### ETH2
 
 https://ethereum.org/en/eth2/beacon-chain/
