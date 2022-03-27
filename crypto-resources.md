@@ -344,6 +344,12 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [no to web3](https://yesterweb.org/no-to-web3/index.html)
 
+# Work and get payed for cryptocurrency software development 
+
+[gitcoin](https://gitcoin.co/)
+
+[dorahacks](https://dorahacks.io/)
+
 # Other stuff
 
 ## Security
@@ -364,7 +370,7 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 
-## Privacy & Activism
+## Privacy & Security
 
 [Electronic Frontier Foundation](https://www.eff.org/)
 
