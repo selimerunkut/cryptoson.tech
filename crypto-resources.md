@@ -293,6 +293,10 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 ## News
 
+[the defiant](https://thedefiant.io/)
+
+[defi pulse newsletters](https://www.defipulse.com/newsletters)
+
 [feed.rekt](https://feed.rekt.news/)
 
 [cryptopanic](https://cryptopanic.com/)
