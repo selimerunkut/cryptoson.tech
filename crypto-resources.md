@@ -12,10 +12,19 @@ class: resources
 
 # Learn
 
-
 [rabbithole](https://rabbithole.gg/)
 
+## solidity
+
+https://cryptozombies.io/
+
+## dApp development:
+ 
 [scaffold-eth learn by challenges](https://speedrunethereum.com/)
+
+[ethereum.org tutorials](https://ethereum.org/en/developers/tutorials/)
+
+[dappuniversity](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
 
 ## Wallets & Storage
 
