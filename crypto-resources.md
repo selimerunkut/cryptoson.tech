@@ -262,6 +262,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [buidlguidl](https://buidlguidl.com/)
 
+[interactive solidity shell](https://github.com/tintinweb/solidity-shell)
+
 ##### Github Repos
 
 [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
