@@ -174,6 +174,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [bscfee.wtf](https://bscfee.wtf)
 
+### Trading and Attacks on AMM
+
+[Sandwich Attacks on Uniswap V2 calculator]([https://revoke.cash/](https://www.defi-sandwi.ch/)
+
 ### Revoke wallet permission
 
 [revoke.cash](https://revoke.cash/)
