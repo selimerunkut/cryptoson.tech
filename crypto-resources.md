@@ -196,7 +196,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
-### ETH2
+### ETH POS
 
 https://ethereum.org/en/eth2/beacon-chain/
 
@@ -205,6 +205,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 [ethresear - ETH research forum](https://ethresear.ch/)
 
 [cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
+
+[zk tools, research, blog](https://0xparc.org/)
 
 ### Layer 2
 
