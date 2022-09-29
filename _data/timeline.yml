@@ -30,7 +30,14 @@
     - tag: Trufflesuite
     - tag: Polkadot
     - tag: Cosmos
+    - tag: Solana
   timeline-side: left
+  
+- title: Novem Gold Blockchain AG
+  title-url: https://novemgold.com/
+  date: Feb 2021 - present
+  subtitle: Interim CTO
+  timeline-side: right
 
 - title: Novem Gold AG
   title-url: https://novemgold.com/

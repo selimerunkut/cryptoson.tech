@@ -6,6 +6,26 @@ class: resources
 
 # Cryptocurrency
 
+[A highly readable version of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Document_HD.pdf)
+
+[Poster of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Poster_24x30.pdf)
+
+# Learn
+
+[rabbithole](https://rabbithole.gg/)
+
+## solidity
+
+https://cryptozombies.io/
+
+## dApp development:
+ 
+[scaffold-eth learn by challenges](https://speedrunethereum.com/)
+
+[ethereum.org tutorials](https://ethereum.org/en/developers/tutorials/)
+
+[dappuniversity](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
+
 ## Wallets & Storage
 
 [Mnemonic Code Converter](https://iancoleman.io/bip39/)
@@ -71,7 +91,6 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [etherscan.io](https://etherscan.io/)
 [etherchain.org](https://www.etherchain.org/)
 
-
 #### SideChains
 
 [xdai](https://blockscout.com/poa/xdai/)
@@ -79,6 +98,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [matic](https://explorer-mainnet.maticvigil.com/)
 
 ### Transaction Visualisation
+
+[blocknative - getting mempool data](https://www.blocknative.com/)
 
 #### BTC
 
@@ -92,14 +113,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [cryptoslam](https://www.cryptoslam.io/)
 
+[checkmynft - storage info of NFTs](https://checkmynft.com/)
+
 ## Staking
 [stake.fish](https://stake.fish/)
-
-## Ethereum Research
-
-[ethresear - ETH research forum](https://ethresear.ch/)
-
-[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
 
 ## DeFi
 
@@ -123,6 +140,8 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
 
+[uniswap on Layer 2 - optimism](https://help.uniswap.org/en/collections/3033942-layer-2)
+
 ### Smart Contract Audits:
 
 [DeFi Safety](https://defisafety.com/)
@@ -133,7 +152,7 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ### Yield Farming
 
-[yieldfarming.info](https://yieldfarming.info/)
+[vfat tools - fork of yieldfarming.info](https://vfat.tools)
 
 ### Asset Overview Dashboard
 
@@ -155,6 +174,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [bscfee.wtf](https://bscfee.wtf)
 
+### Trading and Attacks on AMM
+
+[Sandwich Attacks on Uniswap V2 calculator]([https://revoke.cash/](https://www.defi-sandwi.ch/)
+
 ### Revoke wallet permission
 
 [revoke.cash](https://revoke.cash/)
@@ -165,11 +188,36 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
+[transaction - wallet carbon footprint](https://carbon.fyi/)
+
+[useweb3](https://www.useweb3.xyz/)
+
+[eth2book](https://eth2book.info/)
+
+[Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
+
+### ETH POS
+
+https://ethereum.org/en/eth2/beacon-chain/
+
+### Ethereum Research
+
+[ethresear - ETH research forum](https://ethresear.ch/)
+
+[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
+
+[zk tools, research, blog](https://0xparc.org/)
+
+### Layer 2
+
+[optimism gateway](https://gateway.optimism.io/welcome)
+
 ### Security
 
 #### Multichain
 
 [octopus](https://github.com/pventuzelo/octopus) - WebAssembly, EVM, AVM
+
 [reversing_ethereum_smart_contracts](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf) - Octopus tool creator - Patrick Ventuzelo
 
 #### Solidity
@@ -200,7 +248,6 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [verisol](https://github.com/microsoft/verisol) - prototyping a formal verification and analysis system for smart contracts
 
-
 ##### Smart Contract Weakness Classification and Test Cases
 
 [SWC-registry github](https://github.com/SmartContractSecurity/SWC-registry/) - github repo SWC definitions of crafted and real-world samples of vulnerable smart contracts
@@ -214,6 +261,18 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [consensys - list of security tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
 
 [mythx compilation](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools) - contains articles, papers and videos
+
+##### Developer Ressources
+
+[Developer Road Map Mindmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+
+[buidlguidl](https://buidlguidl.com/)
+
+[interactive solidity shell](https://github.com/tintinweb/solidity-shell)
+
+##### Github Repos
+
+[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
 
 #### Wargames
 
@@ -251,6 +310,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 ## News
 
+[the defiant](https://thedefiant.io/)
+
+[defi pulse newsletters](https://www.defipulse.com/newsletters)
+
 [feed.rekt](https://feed.rekt.news/)
 
 [cryptopanic](https://cryptopanic.com/)
@@ -266,13 +329,14 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 [DeFi Safety](https://discord.gg/UUnKqyXZqS)
 (also on Telegram with the same name)
 
+[NFT Rarity Checking Discord Server](https://discord.com/channels/860517479122206720/861139204146462730)
+
 # Games
 
 ## ETH games
 [darkforest](https://zkga.me/)
 
 [games ranking](https://dappradar.com/rankings/protocol/ethereum/category/games)
-
 
 ## BTC games
 [lightnite](https://lightnite.io/)
@@ -285,7 +349,29 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [thndr.games](https://thndr.games/games)
 
-# NOT cryptocurrency
+# Monero
+
+[sethforprivacy - Monero guides and stuff](https://sethforprivacy.com/guides/)
+
+# no heading / not sorted
+
+[web3.lifeitself](https://web3.lifeitself.us/)
+
+# critics of crypto (out of the bubble)
+
+[web3isgoinggreat](https://web3isgoinggreat.com/)
+
+[stephendiehl blog](https://www.stephendiehl.com/blog/)
+
+[no to web3](https://yesterweb.org/no-to-web3/index.html)
+
+# Work and get payed for cryptocurrency software development 
+
+[gitcoin](https://gitcoin.co/)
+
+[dorahacks](https://dorahacks.io/)
+
+# Other stuff
 
 ## Security
 
@@ -293,4 +379,20 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [overthewire wargames](https://overthewire.org/wargames/)
 
+## Climate
 
+[carbon offset](https://offsetra.com/)
+
+## Research Papers
+
+[Sci Hub - research papers](https://sci-hub.se/)
+
+## Documentaries
+
+[Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
+
+## Privacy & Security
+
+[Electronic Frontier Foundation](https://www.eff.org/)
+
+[have i been pwned](https://haveibeenpwned.com/)

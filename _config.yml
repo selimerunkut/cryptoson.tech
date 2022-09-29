@@ -19,7 +19,7 @@ email: se@cypherx.tech
 # > twitter_username:
 github_username: selimerunkut
 linkedin_username: selimerunkut
-twitter_username: factasticrypto
+twitter_username: cryptoson_
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -48,7 +48,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: cv.pdf
+cv_download_link: ""
 
 # PROJECTS SECTION
 # show_projects_card:
