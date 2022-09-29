@@ -9,16 +9,23 @@ class: resources indicators
       <h1 class="entry-title">{{page.title}}</h1>
     </header><!-- .entry-header -->
     <div class="entry-content">
+      <script src="https://widgets.coingecko.com/coingecko-coin-converter-widget.js"></script>
+      <coingecko-coin-converter-widget  coin-id="bitcoin" currency="usd" background-color="#ffffff" font-color="#4c4c4c" locale="en"></coingecko-coin-converter-widget>
+
       <p><img class="lazy-loaded" src="https://alternative.me/crypto/fear-and-greed-index.png" data-lazy-type="image"
           data-src="https://alternative.me/crypto/fear-and-greed-index.png"
           alt="Latest Crypto Fear &amp; Greed Index"><noscript><img
             src="https://alternative.me/crypto/fear-and-greed-index.png"
             alt="Latest Crypto Fear &amp; Greed Index" /></noscript></p>
 
-      <div class="cr-heatmap-widget" data-top="100" data-range="24H" data-order="cap"
-        style="height: 550px;"><a target="_blank" rel="noopener"
-          href="https://cryptorank.io/heatmaps">Market State by Cryptorank</a></div>
-      <script src="https://cryptorank.io/widget/market-state.js"></script>
+
+          <script src="https://widgets.coingecko.com/coingecko-coin-heatmap-widget.js"></script>
+          <coingecko-coin-heatmap-widget  height="400" locale="en"></coingecko-coin-heatmap-widget>
+
+          <script src="https://widgets.coingecko.com/coingecko-coin-market-ticker-list-widget.js"></script>
+          <coingecko-coin-market-ticker-list-widget  coin-id="defipulse-index" currency="usd" locale="en"></coingecko-coin-market-ticker-list-widget>
+
+         
     </div>
   </div>
 
