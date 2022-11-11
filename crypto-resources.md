@@ -369,7 +369,12 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [gitcoin](https://gitcoin.co/)
 
+[dework](https://app.dework.xyz/)
+
 [dorahacks](https://dorahacks.io/)
+
+[web3 career](https://web3.career/)
+
 
 # Other stuff
 
