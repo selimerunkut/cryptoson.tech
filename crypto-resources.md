@@ -88,14 +88,14 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 ### Ethereum
 
 [ethplorer.io](https://ethplorer.io/)
+
 [etherscan.io](https://etherscan.io/)
+
 [etherchain.org](https://www.etherchain.org/)
 
 #### SideChains
 
-[xdai](https://blockscout.com/poa/xdai/)
-[elastos](https://eth.elastos.io/)
-[matic](https://explorer-mainnet.maticvigil.com/)
+[ethereum.org sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/)
 
 ### Transaction Visualisation
 
