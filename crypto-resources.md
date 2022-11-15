@@ -10,6 +10,10 @@ class: resources
 
 [Poster of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Poster_24x30.pdf)
 
+# Lists
+
+[dapp rankings](https://www.dapp.com/)
+
 # Learn
 
 [rabbithole](https://rabbithole.gg/)
