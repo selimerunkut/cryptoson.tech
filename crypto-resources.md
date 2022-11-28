@@ -396,6 +396,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [Sci Hub - research papers](https://sci-hub.se/)
 
+[Ask Cryptography](https://askcryp.to/)
+
 ## Documentaries
 
 [Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
