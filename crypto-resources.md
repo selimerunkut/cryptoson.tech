@@ -18,6 +18,10 @@ class: resources
 
 [rabbithole](https://rabbithole.gg/)
 
+# Donate
+
+[thegivingblock](https://thegivingblock.com/)
+
 ## solidity
 
 https://cryptozombies.io/
