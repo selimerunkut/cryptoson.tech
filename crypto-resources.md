@@ -101,6 +101,10 @@ Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
 
 [etherchain.org](https://www.etherchain.org/)
 
+#### Layer 2
+
+[l2beat TVL](https://l2beat.com/)
+
 #### SideChains
 
 [ethereum.org sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/)
