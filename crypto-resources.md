@@ -14,13 +14,13 @@ class: resources
 
 [dapp rankings](https://www.dapp.com/)
 
-# Learn
-
-[rabbithole](https://rabbithole.gg/)
-
 # Donate
 
 [thegivingblock](https://thegivingblock.com/)
+
+# Learn
+
+[rabbithole](https://rabbithole.gg/)
 
 ## solidity
 
@@ -33,6 +33,10 @@ https://cryptozombies.io/
 [ethereum.org tutorials](https://ethereum.org/en/developers/tutorials/)
 
 [dappuniversity](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
+
+## BTC Transaction Security
+
+[Bitcoin Confirmation Risk Calculator](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
 
 ## Wallets & Storage
 
