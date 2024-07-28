@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Selim Erünkut
+title: Selim Erunkut
 # description: This will be meta HTML tag content. This can be ignored.
-description: Software Developer with a solid background in software development, business intelligence, cryptocurrency technologies & research and passionate about the dynamics of technological innovation.
+description: Software Developer with a solid background in software development, business intelligence, web3 technologies and passionate about the dynamics of technological innovation.
 
 baseurl: ""
 
 username: SELIM ERÜNKUT
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Software Engineer. Cryptocurrency & Blockchain. 
+typing_text: Software Engineer. Co-Founder. Web3.
 # email: Your E-Mail address for the email button.
 email: se@cypherx.tech
 # For every social button you want to display, set your username or userid
