@@ -13,39 +13,51 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Onchain NFT Marketplace  
+  descr: "Smart Contract based Multichain NFT Marketplace"
+  tags:
+    - tag: NFT Marketplace
+    - tag: Ethereum
+    - tag: Avalanche
+    - tag: Polygon
+    - tag: Binance Smart Chain
+    - tag: Multichain
+    - tag: Hardhat
+
 - name: Novem Bridge  
-  descr: "for swapping Novem Tokens between NEO and Ethereum Blockchains"
+  descr: "Centralized bridge for swapping Tokens between NEO and Ethereum Blockchains"
   tags:
     - tag: Token Swap
     - tag: NEO Blockchain
-    - tag: web3 Ethereum
+    - tag: Ethereum
     - tag: google cloud
-    - tag: polychain
+    - tag: Multichain
 
-- name: Ethereum Smart Contracts 
-  descr: "Migrating NNN and NVM tokens to the ethereum Blockchain"
+- name: RWA Precious Metal Token Smart Contracts 
+  descr: "Real World Asset tokenization for precious metals on the Blockchain"
   tags:
     - tag: Solidity
     - tag: Openzeppelin
+    - tag: Hardhat
+    - tag: Binance Smart Chain
 
     
 - name: Token Sale App 
-  descr: "Ruby on Rails Shop to buy NVM and NNN tokens, with automated KYC and a Gold Bank, for instant purchase of tokenized gold"
+  descr: "Shop to buy precious metal tokens, with automated KYC and a Gold Bank, for instant purchase of tokenized gold"
   tags:
     - tag: Ruby on Rails
     - tag: Tailwind CSS
     - tag: NEO Blockchain
-    - tag: web3 Ethereum
-    - tag: tailwind
+    - tag: Ethereum
 
 - name: Neo dApp
-  descr: "App that enables buying tokens"
+  descr: "dApp that enables users to buy tokens"
   tags:
     - tag: NEO O2 Wallet API
     - tag: Vue.js
 
-- name: NVM Token airdrop
-  descr: "Creating a backend with python that interacts with NVM NEO Smart Contract for airdropping the NVM token"
+- name: Token airdrop
+  descr: "Creating a backend with python that interacts with a NEO Smart Contract for airdropping tokens"
   tags:
     - tag: neo-python
     - tag: heroku
